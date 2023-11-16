@@ -93,3 +93,449 @@
 [35m[39m
 2023-11-16 14:19:00 - [35mhttp[39m: [35mPOST /api/tutor 422 51 - 2.424 ms[39m
 [35m[39m
+2023-11-16 15:54:32 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 15:54:32 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 15:54:32 - [35mhttp[39m: [35mPOST /api/tutors 404 150 - 4.935 ms[39m
+[35m[39m
+2023-11-16 15:54:40 - [35mhttp[39m: [35mGET /api/tutor 404 148 - 1.424 ms[39m
+[35m[39m
+2023-11-16 15:54:51 - [35mhttp[39m: [35mGET /api/tutor 404 148 - 1.163 ms[39m
+[35m[39m
+2023-11-16 15:55:01 - [35mhttp[39m: [35mPOST /api/tutors 404 150 - 0.902 ms[39m
+[35m[39m
+2023-11-16 15:55:33 - [35mhttp[39m: [35mGET /api/tutors 200 11 - 1.619 ms[39m
+[35m[39m
+2023-11-16 15:55:48 - [35mhttp[39m: [35mPOST /api/tutors 404 150 - 0.387 ms[39m
+[35m[39m
+2023-11-16 15:56:01 - [35mhttp[39m: [35mPOST /api/tutor 201 145 - 76.785 ms[39m
+[35m[39m
+2023-11-16 15:56:05 - [35mhttp[39m: [35mGET /api/tutors 200 11 - 0.446 ms[39m
+[35m[39m
+2023-11-16 15:57:31 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "Tutor"[39m
+2023-11-16 15:57:49 - [35mhttp[39m: [35mGET /api/tutor/:id - - - - ms[39m
+[35m[39m
+2023-11-16 15:58:01 - [35mhttp[39m: [35mGET /api/tutor/655665c1538d6728247d9bcd - - - - ms[39m
+[35m[39m
+2023-11-16 15:58:29 - [35mhttp[39m: [35mGET /api//tutor/655665c1538d6728247d9bcd - - - - ms[39m
+[35m[39m
+2023-11-16 15:58:33 - [35mhttp[39m: [35mPOST /api/tutor 201 145 - 49.238 ms[39m
+[35m[39m
+2023-11-16 15:59:10 - [35mhttp[39m: [35mGET /api//tutor/65566659538d6728247d9bd1 - - - - ms[39m
+[35m[39m
+2023-11-16 15:59:24 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 15:59:24 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:00:31 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:00:31 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:00:35 - [35mhttp[39m: [35mPOST /api/tutor 201 145 - 62.756 ms[39m
+[35m[39m
+2023-11-16 16:01:32 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:01:32 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:01:51 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:01:51 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:02:12 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:02:12 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:02:50 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:02:50 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:03:00 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:03:00 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:03:15 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:03:15 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:04:24 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:04:24 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:05:04 - [35mhttp[39m: [35mGET /api//tutor 200 1192 - 62.462 ms[39m
+[35m[39m
+2023-11-16 16:06:40 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:06:40 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:06:46 - [35mhttp[39m: [35mGET /api//tutor 200 1192 - 58.432 ms[39m
+[35m[39m
+2023-11-16 16:06:59 - [35mhttp[39m: [35mPOST /api/tutor 201 144 - 60.973 ms[39m
+[35m[39m
+2023-11-16 16:07:02 - [35mhttp[39m: [35mGET /api//tutor 200 1337 - 41.619 ms[39m
+[35m[39m
+2023-11-16 16:10:20 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:10:20 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:11:41 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:11:41 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:11:50 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:11:50 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:12:05 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:12:05 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:12:13 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:12:13 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:15:20 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:15:20 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:15:30 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:15:30 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:15:43 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:15:43 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:16:07 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:16:07 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:17:02 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value ":" (type string) at path "_id" for model "Tutor"[39m
+2023-11-16 16:17:02 - [35mhttp[39m: [35mDELETE /api//tutor/: 500 34 - 13.396 ms[39m
+[35m[39m
+2023-11-16 16:17:47 - [35mhttp[39m: [35mDELETE /api//tutor/65563888f96239dce11aadca - - - - ms[39m
+[35m[39m
+2023-11-16 16:18:14 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "65563888f96239dce11aadco" (type string) at path "_id" for model "Tutor"[39m
+2023-11-16 16:18:14 - [35mhttp[39m: [35mDELETE /api//tutor/65563888f96239dce11aadco 500 34 - 1.884 ms[39m
+[35m[39m
+2023-11-16 16:18:28 - [35mhttp[39m: [35mGET /api//tutor 200 1337 - 46.836 ms[39m
+[35m[39m
+2023-11-16 16:19:26 - [35mhttp[39m: [35mDELETE /api//tutor/65564e817baa3b1bf64a9861 - - - - ms[39m
+[35m[39m
+2023-11-16 16:20:59 - [35mhttp[39m: [35mPOST /api/tutor 201 148 - 60.881 ms[39m
+[35m[39m
+2023-11-16 16:21:03 - [35mhttp[39m: [35mGET /api//tutor 200 1486 - 40.464 ms[39m
+[35m[39m
+2023-11-16 16:21:29 - [35mhttp[39m: [35mDELETE /api/tutor/65566b9b621fb8bc3c95833b - - - - ms[39m
+[35m[39m
+2023-11-16 16:22:47 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:22:47 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:24:25 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:24:25 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:24:31 - [31merror[39m: [31mSystem error: tutor.delete is not a function[39m
+2023-11-16 16:24:31 - [35mhttp[39m: [35mDELETE /api//tutor/65566b9b621fb8bc3c95833b 500 34 - 55.229 ms[39m
+[35m[39m
+2023-11-16 16:24:40 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:24:40 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:24:43 - [35mhttp[39m: [35mDELETE /api//tutor/65566b9b621fb8bc3c95833b 200 37 - 105.279 ms[39m
+[35m[39m
+2023-11-16 16:24:57 - [35mhttp[39m: [35mDELETE /api//tutor/65566b9b621fb8bc3c95833b 404 37 - 39.535 ms[39m
+[35m[39m
+2023-11-16 16:25:07 - [35mhttp[39m: [35mGET /api//tutor 200 1337 - 45.165 ms[39m
+[35m[39m
+2023-11-16 16:25:20 - [35mhttp[39m: [35mDELETE /api//tutor/65566853ffde36ea5679c023 200 37 - 81.930 ms[39m
+[35m[39m
+2023-11-16 16:25:46 - [35mhttp[39m: [35mDELETE /api//tutor/655666d363d15798f3bb7be6 200 37 - 81.837 ms[39m
+[35m[39m
+2023-11-16 16:25:50 - [35mhttp[39m: [35mGET /api//tutor 200 1046 - 39.484 ms[39m
+[35m[39m
+2023-11-16 16:25:57 - [35mhttp[39m: [35mDELETE /api//tutor/65564c7b5dcf6bd9a4f4a8c8 200 37 - 86.736 ms[39m
+[35m[39m
+2023-11-16 16:26:04 - [35mhttp[39m: [35mDELETE /api//tutor/65564e817baa3b1bf64a9861 200 37 - 80.492 ms[39m
+[35m[39m
+2023-11-16 16:26:07 - [35mhttp[39m: [35mGET /api//tutor 200 745 - 38.213 ms[39m
+[35m[39m
+2023-11-16 16:26:30 - [35mhttp[39m: [35mGET /api//tutor 200 307 - 41.090 ms[39m
+[35m[39m
+2023-11-16 16:27:13 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:27:13 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:27:21 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:27:21 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:27:35 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:27:35 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:27:43 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:27:43 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:27:52 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:27:52 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:28:10 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:28:10 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:28:28 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:28:28 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:28:58 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:28:58 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:35:40 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:35:40 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:35:42 - [35mhttp[39m: [35mPATCH /api/tutor/65563888f96239dce11aadca 200 97 - 103.850 ms[39m
+[35m[39m
+2023-11-16 16:35:48 - [35mhttp[39m: [35mGET /api//tutor 200 296 - 42.306 ms[39m
+[35m[39m
+2023-11-16 16:36:05 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:36:05 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:36:31 - [35mhttp[39m: [35mPUT /api/tutor/65566659538d6728247d9bd1 200 95 - 100.287 ms[39m
+[35m[39m
+2023-11-16 16:36:36 - [35mhttp[39m: [35mGET /api//tutor 200 297 - 41.556 ms[39m
+[35m[39m
+2023-11-16 16:36:41 - [35mhttp[39m: [35mDELETE /api//tutor/65566659538d6728247d9bd1 200 37 - 85.301 ms[39m
+[35m[39m
+2023-11-16 16:36:44 - [35mhttp[39m: [35mGET /api//tutor 200 150 - 43.556 ms[39m
+[35m[39m
+2023-11-16 16:37:07 - [35mhttp[39m: [35mPUT /api/tutor/65566659538d6728247d9bd1 404 37 - 37.828 ms[39m
+[35m[39m
+2023-11-16 16:37:22 - [35mhttp[39m: [35mPUT /api/tutor/65563888f96239dce11aadca 200 104 - 82.032 ms[39m
+[35m[39m
+2023-11-16 16:37:24 - [35mhttp[39m: [35mGET /api//tutor 200 157 - 38.075 ms[39m
+[35m[39m
+2023-11-16 16:38:16 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:38:16 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:38:26 - [35mhttp[39m: [35mPUT /api/tutor/65563888f96239dce11aadca 422 50 - 8.050 ms[39m
+[35m[39m
+2023-11-16 16:38:35 - [35mhttp[39m: [35mPUT /api/tutor/65563888f96239dce11aadca 200 95 - 103.219 ms[39m
+[35m[39m
+2023-11-16 16:50:03 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:50:03 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:50:33 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:50:33 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:51:06 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:51:06 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:52:05 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 53.615 ms[39m
+[35m[39m
+2023-11-16 16:53:47 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 404 173 - 1.274 ms[39m
+[35m[39m
+2023-11-16 16:53:52 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 404 173 - 0.384 ms[39m
+[35m[39m
+2023-11-16 16:54:27 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 16:54:27 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 16:54:28 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 201 127 - 757.852 ms[39m
+[35m[39m
+2023-11-16 16:54:31 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 47.296 ms[39m
+[35m[39m
+2023-11-16 16:54:42 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 201 127 - 49.241 ms[39m
+[35m[39m
+2023-11-16 16:54:46 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 39.865 ms[39m
+[35m[39m
+2023-11-16 16:59:55 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 422 50 - 1.562 ms[39m
+[35m[39m
+2023-11-16 17:00:04 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 422 53 - 1.036 ms[39m
+[35m[39m
+2023-11-16 17:02:25 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:02:25 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:03:17 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:03:17 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:03:28 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 201 127 - 71.908 ms[39m
+[35m[39m
+2023-11-16 17:05:15 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:05:15 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:05:15 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 201 138 - 71.367 ms[39m
+[35m[39m
+2023-11-16 17:05:19 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 47.878 ms[39m
+[35m[39m
+2023-11-16 17:05:34 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:05:34 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:10:12 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:10:12 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:14:39 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:14:39 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:14:46 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 57.273 ms[39m
+[35m[39m
+2023-11-16 17:17:46 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:17:46 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:18:02 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:18:02 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:18:12 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:18:12 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:18:18 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 52.189 ms[39m
+[35m[39m
+2023-11-16 17:18:53 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 201 127 - 62.395 ms[39m
+[35m[39m
+2023-11-16 17:18:57 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 39.167 ms[39m
+[35m[39m
+2023-11-16 17:19:15 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:19:15 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:26:01 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:26:01 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:26:05 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 53.310 ms[39m
+[35m[39m
+2023-11-16 17:26:58 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:26:58 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:27:44 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:27:44 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:27:49 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:27:49 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:29:13 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:29:13 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:29:28 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:29:28 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:29:36 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 50.594 ms[39m
+[35m[39m
+2023-11-16 17:29:44 - [31merror[39m: [31mSystem error: model_pet_1.PetModel.createTutor is not a function[39m
+2023-11-16 17:29:44 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 500 34 - 5.370 ms[39m
+[35m[39m
+2023-11-16 17:29:55 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:29:55 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:29:56 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 201 127 - 64.592 ms[39m
+[35m[39m
+2023-11-16 17:33:32 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:33:32 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:33:54 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:33:54 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:33:57 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 52.755 ms[39m
+[35m[39m
+2023-11-16 17:34:10 - [35mhttp[39m: [35mPOST /api//pet/tutor/65563888f96239dce11aadca 201 127 - 66.650 ms[39m
+[35m[39m
+2023-11-16 17:34:14 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 40.857 ms[39m
+[35m[39m
+2023-11-16 17:34:34 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:34:34 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:49:34 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:49:34 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:50:20 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:50:20 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 17:53:46 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 17:53:46 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:00:15 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:00:15 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:02:43 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 58.480 ms[39m
+[35m[39m
+2023-11-16 18:11:07 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:11:07 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:13:35 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 61.393 ms[39m
+[35m[39m
+2023-11-16 18:13:47 - [35mhttp[39m: [35mPOST /api//pet/tutor/65563888f96239dce11aadca 404 179 - 2.203 ms[39m
+[35m[39m
+2023-11-16 18:13:54 - [35mhttp[39m: [35mPOST /api//pet/tutor/65563888f96239dce11aadca 404 179 - 0.632 ms[39m
+[35m[39m
+2023-11-16 18:14:18 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:14:18 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:14:21 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 201 127 - 69.155 ms[39m
+[35m[39m
+2023-11-16 18:14:29 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 56.215 ms[39m
+[35m[39m
+2023-11-16 18:16:39 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:16:39 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:17:53 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:17:53 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:18:41 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:18:41 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:18:44 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 201 163 - 68.486 ms[39m
+[35m[39m
+2023-11-16 18:18:51 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 52.351 ms[39m
+[35m[39m
+2023-11-16 18:20:02 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:20:02 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:20:06 - [31merror[39m: [31mSystem error: Cannot populate path `Pet` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2023-11-16 18:20:06 - [35mhttp[39m: [35mGET /api//tutor 500 34 - 75.844 ms[39m
+[35m[39m
+2023-11-16 18:21:06 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:21:06 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:21:07 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 378.659 ms[39m
+[35m[39m
+2023-11-16 18:21:29 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:21:29 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:21:35 - [31merror[39m: [31mSystem error: Cannot populate path `pet` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2023-11-16 18:21:35 - [35mhttp[39m: [35mGET /api//tutor 500 34 - 57.126 ms[39m
+[35m[39m
+2023-11-16 18:23:35 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:23:35 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:24:17 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:24:17 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:25:08 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:25:08 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:25:42 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:25:42 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:25:46 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:25:46 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:25:50 - [35mhttp[39m: [35mGET /api//tutor 200 62 - 54.939 ms[39m
+[35m[39m
+2023-11-16 18:26:10 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:26:10 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:26:11 - [35mhttp[39m: [35mGET /api//tutor 200 63 - 51.917 ms[39m
+[35m[39m
+2023-11-16 18:26:25 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:26:26 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:26:29 - [35mhttp[39m: [35mGET /api//tutor 200 2 - 48.489 ms[39m
+[35m[39m
+2023-11-16 18:26:40 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:26:40 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:26:41 - [35mhttp[39m: [35mGET /api//tutor 200 2 - 48.875 ms[39m
+[35m[39m
+2023-11-16 18:28:51 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:28:51 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:28:51 - [35mhttp[39m: [35mGET /api//tutor 200 2 - 341.883 ms[39m
+[35m[39m
+2023-11-16 18:28:54 - [35mhttp[39m: [35mGET /api//tutor 200 2 - 39.309 ms[39m
+[35m[39m
+2023-11-16 18:32:22 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:32:22 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:38:31 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:38:31 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:39:21 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:39:21 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:39:29 - [35mhttp[39m: [35mGET /api//tutor - - - - ms[39m
+[35m[39m
+2023-11-16 18:39:39 - [35mhttp[39m: [35mGET /api//tutor - - - - ms[39m
+[35m[39m
+2023-11-16 18:39:57 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:39:57 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:40:13 - [35mhttp[39m: [35mGET /api//tutor - - - - ms[39m
+[35m[39m
+2023-11-16 18:40:22 - [35mhttp[39m: [35mGET /api//tutor - - - - ms[39m
+[35m[39m
+2023-11-16 18:40:59 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:40:59 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:41:47 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:41:47 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:42:08 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 145.050 ms[39m
+[35m[39m
+2023-11-16 18:42:29 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 121.133 ms[39m
+[35m[39m
+2023-11-16 18:42:59 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 201 163 - 117.717 ms[39m
+[35m[39m
+2023-11-16 18:43:04 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 201 164 - 46.737 ms[39m
+[35m[39m
+2023-11-16 18:43:08 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 117.315 ms[39m
+[35m[39m
+2023-11-16 18:44:47 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:44:47 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:44:47 - [31merror[39m: [31mSystem error: Cannot populate path `Pet` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2023-11-16 18:44:47 - [35mhttp[39m: [35mGET /api//tutor 500 34 - 842.462 ms[39m
+[35m[39m
+2023-11-16 18:44:56 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:44:56 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:45:30 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:45:30 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:45:57 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:45:57 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:46:01 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:46:01 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:46:02 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 65.695 ms[39m
+[35m[39m
+2023-11-16 18:46:20 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:46:20 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:46:20 - [35mhttp[39m: [35mGET /api//tutor 200 146 - 450.643 ms[39m
+[35m[39m
+2023-11-16 18:47:00 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:47:00 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:47:01 - [31merror[39m: [31mSystem error: Cannot populate path `Pet` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2023-11-16 18:47:01 - [35mhttp[39m: [35mGET /api//tutor 500 34 - 778.224 ms[39m
+[35m[39m
+2023-11-16 18:47:12 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:47:12 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:47:12 - [31merror[39m: [31mSystem error: Cannot populate path `pet` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2023-11-16 18:47:12 - [35mhttp[39m: [35mGET /api//tutor 500 34 - 623.619 ms[39m
+[35m[39m
+2023-11-16 18:47:29 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:47:29 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:47:29 - [31merror[39m: [31mSystem error: Cannot populate path `pet` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2023-11-16 18:47:29 - [35mhttp[39m: [35mGET /api//tutor 500 34 - 336.730 ms[39m
+[35m[39m
+2023-11-16 18:47:55 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:47:55 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:48:02 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:48:02 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:48:21 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:48:21 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:48:42 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:48:42 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:48:48 - [31merror[39m: [31mSystem error: Cannot populate path `pet` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2023-11-16 18:49:42 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:49:42 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:49:59 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:49:59 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:50:38 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:50:38 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:50:46 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:50:46 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:50:53 - [35mhttp[39m: [35mGET /api//tutor 500 14 - 62.636 ms[39m
+[35m[39m
+2023-11-16 18:51:14 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:51:14 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:51:14 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 558.535 ms[39m
+[35m[39m
+2023-11-16 18:54:49 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:54:49 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:55:13 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:55:13 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:55:47 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:55:47 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:55:51 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 62.248 ms[39m
+[35m[39m
+2023-11-16 18:59:08 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 18:59:08 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 18:59:20 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 66.204 ms[39m
+[35m[39m
+2023-11-16 19:00:29 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 39.136 ms[39m
+[35m[39m
+2023-11-16 19:00:51 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 19:00:51 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 19:00:52 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 75.116 ms[39m
+[35m[39m

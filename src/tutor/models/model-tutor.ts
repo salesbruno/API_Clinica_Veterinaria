@@ -8,7 +8,7 @@ const tutorSchema = new Schema({
   data_of_birth: String,
   zipCode: String,
 
-  pets: [{type: Schema.Types.ObjectId, ref: 'Pet'}]
+  pets: [{ type: Schema.Types.ObjectId, ref: "Pet" }],
 });
 
 export const TutorModel = model("Tutor", tutorSchema);

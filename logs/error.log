@@ -1,1 +1,13 @@
 2023-11-16 11:40:46 - [31merror[39m: [31mUnable to connect[39m
+2023-11-16 15:57:31 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value ":id" (type string) at path "_id" for model "Tutor"[39m
+2023-11-16 16:17:02 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value ":" (type string) at path "_id" for model "Tutor"[39m
+2023-11-16 16:18:14 - [31merror[39m: [31mSystem error: Cast to ObjectId failed for value "65563888f96239dce11aadco" (type string) at path "_id" for model "Tutor"[39m
+2023-11-16 16:24:31 - [31merror[39m: [31mSystem error: tutor.delete is not a function[39m
+2023-11-16 17:29:44 - [31merror[39m: [31mSystem error: model_pet_1.PetModel.createTutor is not a function[39m
+2023-11-16 18:20:06 - [31merror[39m: [31mSystem error: Cannot populate path `Pet` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2023-11-16 18:21:35 - [31merror[39m: [31mSystem error: Cannot populate path `pet` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2023-11-16 18:44:47 - [31merror[39m: [31mSystem error: Cannot populate path `Pet` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2023-11-16 18:47:01 - [31merror[39m: [31mSystem error: Cannot populate path `Pet` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2023-11-16 18:47:12 - [31merror[39m: [31mSystem error: Cannot populate path `pet` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2023-11-16 18:47:29 - [31merror[39m: [31mSystem error: Cannot populate path `pet` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2023-11-16 18:48:48 - [31merror[39m: [31mSystem error: Cannot populate path `pet` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
