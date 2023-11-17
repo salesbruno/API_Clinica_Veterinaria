@@ -19,6 +19,7 @@ Use o código com cuidado. Saiba mais Inicie o servidor de desenvolvimento: Bash
 Use o código com cuidado. Saiba mais Abra o seguinte URL em seu navegador: http://localhost:8000/api/ Documentação da API O microsserviço Clínica Veterinária expõe os seguintes endpoints da API REST:
 
 Tutores GET /tutors: Recupera todos os tutores.
+<br/>
 POST /tutor: Cria um novo tutor.
 <br/>
 PUT /tutor/:id Atualiza um tutor.
