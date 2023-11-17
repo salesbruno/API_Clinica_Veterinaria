@@ -20,8 +20,13 @@ Use o código com cuidado. Saiba mais Abra o seguinte URL em seu navegador: http
 
 Tutores GET /tutors: Recupera todos os tutores.
 POST /tutor: Cria um novo tutor.
+
 PUT /tutor/:id Atualiza um tutor.
+
 DELETE /tutor/id Exclui um tutor. Animais de estimação
+
 POST /pet/:tutorId: Cria um pet e o adiciona a um tutor.
+
 PUT /pet/:petId/tutor/:tutorId: Atualiza as informações de um pet.
+
 DELETE /pet/:petId/tutor/:tutorId: Exclui um pet de um tutor.
