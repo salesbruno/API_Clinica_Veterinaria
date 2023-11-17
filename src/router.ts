@@ -1,4 +1,4 @@
-import { Router, Request, Response } from "express";
+import { Router } from "express";
 import {
   createTutor,
   getTutor,
@@ -10,7 +10,11 @@ import {
 import { validate } from "./middleware/handleValidation";
 import { tutorCreateValidation } from "./middleware/tutorValidation";
 import { petCreateValidation } from "./middleware/petValidation";
-import { createPet } from "./pet/controllers/petControllers";
+import {
+  createPet,
+  removePet,
+  updatePet,
+} from "./pet/controllers/petControllers";
 
 const router = Router();
 
@@ -19,4 +23,6 @@ export default router
   .get("/tutor", getTutor)
   .delete("/tutor/:id", removeTutor)
   .put("/tutor/:id", tutorCreateValidation(), validate, updateTutor)
-  .post("/pet/:tutorId", petCreateValidation(), validate, createPet);
+  .post("/pet/:tutorId", petCreateValidation(), validate, createPet)
+  .delete("/pet/:petId/tutor/:tutorId", removePet)
+  .put("/pet/:petId/tutor/:tutorId", updatePet);

@@ -10,9 +10,6 @@ const app = express();
 // JSON middleware
 app.use(express.json());
 
-// DB
-import db from "../config/db";
-
 // Routes
 import router from "./router";
 
@@ -30,7 +27,6 @@ app.use("/api/", router);
 const port = config.get<number>("port");
 
 app.listen(8000, async () => {
-  await db();
 
   Logger.info(`Application is working on port: ${port}`);
 });

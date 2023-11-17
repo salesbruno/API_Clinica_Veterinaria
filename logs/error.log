@@ -11,3 +11,186 @@
 2023-11-16 18:47:12 - [31merror[39m: [31mSystem error: Cannot populate path `pet` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
 2023-11-16 18:47:29 - [31merror[39m: [31mSystem error: Cannot populate path `pet` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
 2023-11-16 18:48:48 - [31merror[39m: [31mSystem error: Cannot populate path `pet` because it is not in your schema. Set the `strictPopulate` option to false to override.[39m
+2023-11-17 11:51:33 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.tutor.create()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\tutor\controllers\tutorControllers.ts:11:38[39m
+
+[31m   8 export async function createTutor(req: Request, res: Response) {[39m
+[31m   9   try {[39m
+[31m  10     const data = req.body;[39m
+[31m→ 11     const tutor = await prisma.tutor.create({[39m
+[31m           name: "ze",[39m
+[31m           ~~~~[39m
+[31m           phone: "22554",[39m
+[31m           email: "Maria@.com",[39m
+[31m           data_of_birth: "30/08/1992",[39m
+[31m           zipCode: "1234567",[39m
+[31m         ? data?: TutorCreateInput | TutorUncheckedCreateInput[39m
+[31m         })[39m
+
+[31mUnknown argument `name`. Did you mean `data`? Available options are marked with ?.[39m
+2023-11-17 11:53:05 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.tutor.create()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\tutor\controllers\tutorControllers.ts:11:38[39m
+
+[31m   8 export async function createTutor(req: Request, res: Response) {[39m
+[31m   9   try {[39m
+[31m  10     const data = req.body;[39m
+[31m→ 11     const tutor = await prisma.tutor.create({[39m
+[31m           data: {[39m
+[31m             name: "ze",[39m
+[31m             phone: "22554",[39m
+[31m             email: "Maria@.com",[39m
+[31m             data_of_birth: "30/08/1992",[39m
+[31m                            ~~~~~~~~~~~~[39m
+[31m             zipCode: "1234567"[39m
+[31m           }[39m
+[31m         })[39m
+
+[31mInvalid value for argument `data_of_birth`: input contains invalid characters. Expected ISO-8601 DateTime.[39m
+2023-11-17 11:53:35 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.tutor.create()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\tutor\controllers\tutorControllers.ts:11:38[39m
+
+[31m   8 export async function createTutor(req: Request, res: Response) {[39m
+[31m   9   try {[39m
+[31m  10     const data = req.body;[39m
+[31m→ 11     const tutor = await prisma.tutor.create({[39m
+[31m           data: {[39m
+[31m             name: "ze",[39m
+[31m             phone: "22554",[39m
+[31m             email: "Maria@.com",[39m
+[31m             data_of_birth: "30-08-1992",[39m
+[31m                            ~~~~~~~~~~~~[39m
+[31m             zipCode: "1234567"[39m
+[31m           }[39m
+[31m         })[39m
+
+[31mInvalid value for argument `data_of_birth`: input contains invalid characters. Expected ISO-8601 DateTime.[39m
+2023-11-17 11:54:56 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.tutor.create()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\tutor\controllers\tutorControllers.ts:11:38[39m
+
+[31m   8 export async function createTutor(req: Request, res: Response) {[39m
+[31m   9   try {[39m
+[31m  10     const data = req.body;[39m
+[31m→ 11     const tutor = await prisma.tutor.create([39m
+[31mError occurred during query execution:[39m
+[31mConnectorError(ConnectorError { user_facing_error: None, kind: AuthenticationFailed { user: "SCRAM failure: bad auth : authentication failed" }, transient: false })[39m
+2023-11-17 11:55:57 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.tutor.create()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\tutor\controllers\tutorControllers.ts:11:38[39m
+
+[31m   8 export async function createTutor(req: Request, res: Response) {[39m
+[31m   9   try {[39m
+[31m  10     const data = req.body;[39m
+[31m→ 11     const tutor = await prisma.tutor.create([39m
+[31mError occurred during query execution:[39m
+[31mConnectorError(ConnectorError { user_facing_error: None, kind: AuthenticationFailed { user: "SCRAM failure: bad auth : authentication failed" }, transient: false })[39m
+2023-11-17 11:58:09 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.pet.create()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\pet\controllers\petControllers.ts:12:34[39m
+
+[31m   9 try {[39m
+[31m  10   const data = req.body;[39m
+[31m  11   const tutorId = req.params.tutorId;[39m
+[31m→ 12   const pet = await prisma.pet.create({[39m
+[31m         name: "lalaa",[39m
+[31m         ~~~~[39m
+[31m         species: "dog",[39m
+[31m         carry: "p",[39m
+[31m         weight: 5,[39m
+[31m         data_of_birth: "02/09/2105",[39m
+[31m         tutorId: "65576c1a4c90d6579d54f6cc",[39m
+[31m       ? data?: PetCreateInput | PetUncheckedCreateInput[39m
+[31m       })[39m
+
+[31mUnknown argument `name`. Did you mean `data`? Available options are marked with ?.[39m
+2023-11-17 11:58:25 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.pet.create()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\pet\controllers\petControllers.ts:12:34[39m
+
+[31m   9 try {[39m
+[31m  10   const data = req.body;[39m
+[31m  11   const tutorId = req.params.tutorId;[39m
+[31m→ 12   const pet = await prisma.pet.create({[39m
+[31m         name: "lalaa",[39m
+[31m         ~~~~[39m
+[31m         species: "dog",[39m
+[31m         carry: "p",[39m
+[31m         weight: 5,[39m
+[31m         data_of_birth: "02/09/2105",[39m
+[31m         tutorId: "65577f2a59622d1356eaa274",[39m
+[31m       ? data?: PetCreateInput | PetUncheckedCreateInput[39m
+[31m       })[39m
+
+[31mUnknown argument `name`. Did you mean `data`? Available options are marked with ?.[39m
+2023-11-17 11:59:00 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.pet.create()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\pet\controllers\petControllers.ts:12:34[39m
+
+[31m   9 try {[39m
+[31m  10   const data = req.body;[39m
+[31m  11   const tutorId = req.params.tutorId;[39m
+[31m→ 12   const pet = await prisma.pet.create({[39m
+[31m         name: "lalaa",[39m
+[31m         ~~~~[39m
+[31m         species: "dog",[39m
+[31m         carry: "p",[39m
+[31m         weight: "5",[39m
+[31m         data_of_birth: "2023-11-17T14:54:29.003Z",[39m
+[31m         tutorId: "65577f2a59622d1356eaa274",[39m
+[31m       ? data?: PetCreateInput | PetUncheckedCreateInput[39m
+[31m       })[39m
+
+[31mUnknown argument `name`. Did you mean `data`? Available options are marked with ?.[39m
+2023-11-17 12:05:58 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.pet.update()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\pet\controllers\petControllers.ts:51:34[39m
+
+[31m  48 const { petId, tutorId } = req.params;[39m
+[31m  49 const data = req.body;[39m
+[31m  50 [39m
+[31m→ 51 const pet = await prisma.pet.update({[39m
+[31m       where: {[39m
+[31m         id: "65578139d9fc3272f3b6492f",[39m
+[31m         tutorId: "65577f2a59622d1356eaa274"[39m
+[31m       },[39m
+[31m       data: {[39m
+[31m         name: "sho",[39m
+[31m         species: "dog",[39m
+[31m         carry: "p",[39m
+[31m         weight: 5,[39m
+[31m                 ~[39m
+[31m         data_of_birth: "02/09/2105"[39m
+[31m       }[39m
+[31m     })[39m
+
+[31mArgument `weight`: Invalid value provided. Expected String or StringFieldUpdateOperationsInput, provided Int.[39m
+2023-11-17 12:16:48 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.pet.delete()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\pet\controllers\petControllers.ts:28:40[39m
+
+[31m  25 export async function removePet(req: Request, res: Response) {[39m
+[31m  26   try {[39m
+[31m  27     const { petId, tutorId } = req.params;[39m
+[31m→ 28     const pet = await prisma.pet.delete([39m
+[31mAn operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.[39m
+2023-11-17 12:17:10 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.pet.delete()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\pet\controllers\petControllers.ts:28:40[39m
+
+[31m  25 export async function removePet(req: Request, res: Response) {[39m
+[31m  26   try {[39m
+[31m  27     const { petId, tutorId } = req.params;[39m
+[31m→ 28     const pet = await prisma.pet.delete([39m
+[31mAn operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.[39m
+2023-11-17 12:31:28 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.pet.delete()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\pet\controllers\petControllers.ts:28:40[39m
+
+[31m  25 export async function removePet(req: Request, res: Response) {[39m
+[31m  26   try {[39m
+[31m  27     const { petId, tutorId } = req.params;[39m
+[31m→ 28     const pet = await prisma.pet.delete([39m
+[31mAn operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.[39m

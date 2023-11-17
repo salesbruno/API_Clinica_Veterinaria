@@ -1,20 +1,19 @@
 import { Request, Response } from "express";
 
-// Model
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-
 // Logger
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 import Logger from "../../../config/logger";
-import { PetModel } from "../models/model-pet";
+import { prisma } from "../../../prisma/prisma";
 
 export async function createPet(req: Request, res: Response) {
   try {
     const data = req.body;
     const tutorId = req.params.tutorId;
-    const pet = await PetModel.create({
-      ...data,
-      tutorId: tutorId,
+    const pet = await prisma.pet.create({
+      data: {
+        ...data,
+        tutorId,
+      },
     });
     return res.status(201).json(pet);
   } catch (e: any) {
@@ -25,14 +24,17 @@ export async function createPet(req: Request, res: Response) {
 
 export async function removePet(req: Request, res: Response) {
   try {
-    const id = req.params.id;
-    const pet = await PetModel.findById(id);
+    const { petId, tutorId } = req.params;
+    const pet = await prisma.pet.delete({
+      where: {
+        id: petId,
+        tutorId,
+      },
+    });
 
     if (!pet) {
       return res.status(404).json({ error: "The pet does not exist!" });
     }
-
-    await pet.deleteOne();
 
     return res.status(200).json({ msg: "Pet successfully removed!" });
   } catch (e: any) {
@@ -43,16 +45,22 @@ export async function removePet(req: Request, res: Response) {
 
 export async function updatePet(req: Request, res: Response) {
   try {
-    const id = req.params.id;
+    const { petId, tutorId } = req.params;
     const data = req.body;
 
-    const pet = await PetModel.findById(id);
+    const pet = await prisma.pet.update({
+      where: {
+        id: petId,
+        tutorId,
+      },
+      data: data
+    });
 
     if (!pet) {
       return res.status(404).json({ error: "The pet does not exist!" });
     }
 
-    await PetModel.updateOne({ _id: id }, data);
+ 
 
     return res.status(200).json(data);
   } catch (e: any) {

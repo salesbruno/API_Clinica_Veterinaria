@@ -1,18 +1,16 @@
 import { Request, Response } from "express";
 
-// Model
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-import { TutorModel } from "../models/model-tutor";
-
 // Logger
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 import Logger from "../../../config/logger";
-import { PetModel } from "../../pet/models/model-pet";
+import { prisma } from "../../../prisma/prisma";
 
 export async function createTutor(req: Request, res: Response) {
   try {
     const data = req.body;
-    const tutor = await TutorModel.create(data);
+    const tutor = await prisma.tutor.create({
+      data: data,
+    });
     return res.status(201).json(tutor);
   } catch (e: any) {
     Logger.error(`System error: ${e.message}`);
@@ -22,7 +20,11 @@ export async function createTutor(req: Request, res: Response) {
 
 export async function getTutor(req: Request, res: Response) {
   try {
-    const tutors = await TutorModel.find({}, null, { populate: "pets" }).exec();
+    const tutors = await prisma.tutor.findMany({
+      include: {
+        pets: true,
+      },
+    });
 
     return res.status(200).json(tutors);
   } catch (e: unknown) {
@@ -33,13 +35,13 @@ export async function getTutor(req: Request, res: Response) {
 export async function removeTutor(req: Request, res: Response) {
   try {
     const id = req.params.id;
-    const tutor = await TutorModel.findById(id);
+    const tutor = await prisma.tutor.delete({
+      where: { id: id },
+    });
 
     if (!tutor) {
       return res.status(404).json({ error: "The tutor does not exist!" });
     }
-
-    await tutor.deleteOne();
 
     return res.status(200).json({ msg: "Tutor successfully removed!" });
   } catch (e: any) {
@@ -53,13 +55,18 @@ export async function updateTutor(req: Request, res: Response) {
     const id = req.params.id;
     const data = req.body;
 
-    const tutor = await TutorModel.findById(id);
+    const tutor = await prisma.tutor.findUnique({
+      where: { id: id },
+    });
 
     if (!tutor) {
       return res.status(404).json({ error: "The tutor does not exist!" });
     }
 
-    await TutorModel.updateOne({ _id: id }, data);
+    await prisma.tutor.update({
+      where: { id: id },
+      data: data,
+    });
 
     return res.status(200).json(data);
   } catch (e: any) {

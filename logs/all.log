@@ -539,3 +539,437 @@
 2023-11-16 19:00:51 - [32minfo[39m: [32mApplication is working on port: 8000[39m
 2023-11-16 19:00:52 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 75.116 ms[39m
 [35m[39m
+2023-11-16 20:21:42 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 20:21:42 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 20:22:43 - [35mhttp[39m: [35mGET /api//tutor 500 2 - 3.963 ms[39m
+[35m[39m
+2023-11-16 20:22:46 - [35mhttp[39m: [35mGET /api//tutor 500 2 - 1.505 ms[39m
+[35m[39m
+2023-11-16 20:23:23 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 20:23:23 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 20:23:32 - [35mhttp[39m: [35mGET /api//tutor 500 2 - 8.779 ms[39m
+[35m[39m
+2023-11-16 20:23:33 - [35mhttp[39m: [35mGET /api//tutor 500 2 - 1.111 ms[39m
+[35m[39m
+2023-11-16 20:24:05 - [35mhttp[39m: [35mGET /api//tutor 500 2 - 6.461 ms[39m
+[35m[39m
+2023-11-16 20:24:05 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 20:24:05 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 20:24:19 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 20:24:19 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 20:24:22 - [35mhttp[39m: [35mGET /api//tutor 500 2 - 8.191 ms[39m
+[35m[39m
+2023-11-16 20:24:23 - [35mhttp[39m: [35mGET /api//tutor 500 2 - 0.831 ms[39m
+[35m[39m
+2023-11-16 20:24:38 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 20:24:38 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 20:25:35 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 20:25:35 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 21:01:48 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 21:01:48 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 21:01:51 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 56.006 ms[39m
+[35m[39m
+2023-11-16 21:01:53 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 40.055 ms[39m
+[35m[39m
+2023-11-16 21:02:17 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 201 164 - 68.798 ms[39m
+[35m[39m
+2023-11-16 21:02:21 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 40.109 ms[39m
+[35m[39m
+2023-11-16 21:03:02 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 21:03:02 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 21:03:10 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 21:03:10 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 21:03:11 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 61.275 ms[39m
+[35m[39m
+2023-11-16 21:04:52 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 21:04:52 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 21:05:25 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 21:05:25 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 21:05:31 - [35mhttp[39m: [35mGET /api//tutor - - - - ms[39m
+[35m[39m
+2023-11-16 21:05:34 - [35mhttp[39m: [35mGET /api//tutor - - - - ms[39m
+[35m[39m
+2023-11-16 21:05:51 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 21:05:51 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 21:06:00 - [35mhttp[39m: [35mGET /api//tutor - - - - ms[39m
+[35m[39m
+2023-11-16 21:06:10 - [35mhttp[39m: [35mGET /api//tutor - - - - ms[39m
+[35m[39m
+2023-11-16 21:06:20 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 21:06:20 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 21:06:30 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 21:06:30 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 21:06:54 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 21:06:54 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 21:06:55 - [35mhttp[39m: [35mGET /api//tutor 500 2 - 52.048 ms[39m
+[35m[39m
+2023-11-16 21:06:56 - [35mhttp[39m: [35mGET /api//tutor 500 2 - 39.925 ms[39m
+[35m[39m
+2023-11-16 21:07:06 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 21:07:06 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 21:07:11 - [35mhttp[39m: [35mGET /api//tutor 200 4 - 49.322 ms[39m
+[35m[39m
+2023-11-16 21:07:29 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 21:07:29 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 21:07:40 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 21:07:40 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 21:07:48 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-16 21:07:48 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-16 21:07:48 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 64.130 ms[39m
+[35m[39m
+2023-11-17 10:31:56 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-17 10:31:56 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 10:32:15 - [35mhttp[39m: [35mGET /api//tutor 200 148 - 61.646 ms[39m
+[35m[39m
+2023-11-17 10:32:26 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 201 164 - 73.723 ms[39m
+[35m[39m
+2023-11-17 10:33:47 - [35mhttp[39m: [35mDELETE /api//pet/65576b6a4c90d6579d54f6c7/tutor/65563888f96239dce11aadca 404 35 - 40.790 ms[39m
+[35m[39m
+2023-11-17 10:33:56 - [35mhttp[39m: [35mPOST /api//pet/65563888f96239dce11aadca 201 164 - 48.488 ms[39m
+[35m[39m
+2023-11-17 10:35:22 - [35mhttp[39m: [35mPOST /api/tutor 201 149 - 51.684 ms[39m
+[35m[39m
+2023-11-17 10:35:27 - [35mhttp[39m: [35mGET /api//tutor 200 298 - 40.853 ms[39m
+[35m[39m
+2023-11-17 10:36:46 - [35mhttp[39m: [35mPOST /api//pet/65576c1a4c90d6579d54f6cc 201 164 - 45.731 ms[39m
+[35m[39m
+2023-11-17 10:37:30 - [35mhttp[39m: [35mDELETE /api//pet/65576c6e4c90d6579d54f6cf/tutor/65576c1a4c90d6579d54f6cc 404 35 - 54.167 ms[39m
+[35m[39m
+2023-11-17 10:38:04 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-17 10:38:04 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 10:38:17 - [35mhttp[39m: [35mPOST /api/tutor 201 153 - 75.296 ms[39m
+[35m[39m
+2023-11-17 10:38:48 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-17 10:38:48 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 10:39:06 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-17 10:39:06 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 10:39:18 - [32minfo[39m: [32mConnected to the database[39m
+2023-11-17 10:39:18 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 10:39:47 - [35mhttp[39m: [35mDELETE /api/pet/65576c6e4c90d6579d54f6cf/tutor/65576c1a4c90d6579d54f6cc 404 35 - 50.889 ms[39m
+[35m[39m
+2023-11-17 10:41:09 - [35mhttp[39m: [35mPUT /api/pet/65576c6e4c90d6579d54f6cf/tutor/65576c1a4c90d6579d54f6cc 404 35 - 38.927 ms[39m
+[35m[39m
+2023-11-17 11:49:51 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 11:50:42 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 11:51:09 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 11:51:19 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 11:51:33 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.tutor.create()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\tutor\controllers\tutorControllers.ts:11:38[39m
+
+[31m   8 export async function createTutor(req: Request, res: Response) {[39m
+[31m   9   try {[39m
+[31m  10     const data = req.body;[39m
+[31m→ 11     const tutor = await prisma.tutor.create({[39m
+[31m           name: "ze",[39m
+[31m           ~~~~[39m
+[31m           phone: "22554",[39m
+[31m           email: "Maria@.com",[39m
+[31m           data_of_birth: "30/08/1992",[39m
+[31m           zipCode: "1234567",[39m
+[31m         ? data?: TutorCreateInput | TutorUncheckedCreateInput[39m
+[31m         })[39m
+
+[31mUnknown argument `name`. Did you mean `data`? Available options are marked with ?.[39m
+2023-11-17 11:51:33 - [35mhttp[39m: [35mPOST /api/tutor 500 34 - 287.567 ms[39m
+[35m[39m
+2023-11-17 11:52:58 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 11:53:05 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.tutor.create()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\tutor\controllers\tutorControllers.ts:11:38[39m
+
+[31m   8 export async function createTutor(req: Request, res: Response) {[39m
+[31m   9   try {[39m
+[31m  10     const data = req.body;[39m
+[31m→ 11     const tutor = await prisma.tutor.create({[39m
+[31m           data: {[39m
+[31m             name: "ze",[39m
+[31m             phone: "22554",[39m
+[31m             email: "Maria@.com",[39m
+[31m             data_of_birth: "30/08/1992",[39m
+[31m                            ~~~~~~~~~~~~[39m
+[31m             zipCode: "1234567"[39m
+[31m           }[39m
+[31m         })[39m
+
+[31mInvalid value for argument `data_of_birth`: input contains invalid characters. Expected ISO-8601 DateTime.[39m
+2023-11-17 11:53:05 - [35mhttp[39m: [35mPOST /api/tutor 500 34 - 428.180 ms[39m
+[35m[39m
+2023-11-17 11:53:35 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.tutor.create()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\tutor\controllers\tutorControllers.ts:11:38[39m
+
+[31m   8 export async function createTutor(req: Request, res: Response) {[39m
+[31m   9   try {[39m
+[31m  10     const data = req.body;[39m
+[31m→ 11     const tutor = await prisma.tutor.create({[39m
+[31m           data: {[39m
+[31m             name: "ze",[39m
+[31m             phone: "22554",[39m
+[31m             email: "Maria@.com",[39m
+[31m             data_of_birth: "30-08-1992",[39m
+[31m                            ~~~~~~~~~~~~[39m
+[31m             zipCode: "1234567"[39m
+[31m           }[39m
+[31m         })[39m
+
+[31mInvalid value for argument `data_of_birth`: input contains invalid characters. Expected ISO-8601 DateTime.[39m
+2023-11-17 11:53:35 - [35mhttp[39m: [35mPOST /api/tutor 500 34 - 9.916 ms[39m
+[35m[39m
+2023-11-17 11:54:56 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.tutor.create()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\tutor\controllers\tutorControllers.ts:11:38[39m
+
+[31m   8 export async function createTutor(req: Request, res: Response) {[39m
+[31m   9   try {[39m
+[31m  10     const data = req.body;[39m
+[31m→ 11     const tutor = await prisma.tutor.create([39m
+[31mError occurred during query execution:[39m
+[31mConnectorError(ConnectorError { user_facing_error: None, kind: AuthenticationFailed { user: "SCRAM failure: bad auth : authentication failed" }, transient: false })[39m
+2023-11-17 11:54:56 - [35mhttp[39m: [35mPOST /api/tutor 500 34 - 234.740 ms[39m
+[35m[39m
+2023-11-17 11:55:53 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 11:55:57 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.tutor.create()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\tutor\controllers\tutorControllers.ts:11:38[39m
+
+[31m   8 export async function createTutor(req: Request, res: Response) {[39m
+[31m   9   try {[39m
+[31m  10     const data = req.body;[39m
+[31m→ 11     const tutor = await prisma.tutor.create([39m
+[31mError occurred during query execution:[39m
+[31mConnectorError(ConnectorError { user_facing_error: None, kind: AuthenticationFailed { user: "SCRAM failure: bad auth : authentication failed" }, transient: false })[39m
+2023-11-17 11:55:57 - [35mhttp[39m: [35mPOST /api/tutor 500 34 - 747.939 ms[39m
+[35m[39m
+2023-11-17 11:56:34 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 11:56:42 - [35mhttp[39m: [35mPOST /api/tutor 201 145 - 769.836 ms[39m
+[35m[39m
+2023-11-17 11:57:01 - [35mhttp[39m: [35mGET /api//tutor 200 157 - 84.949 ms[39m
+[35m[39m
+2023-11-17 11:58:06 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 11:58:09 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.pet.create()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\pet\controllers\petControllers.ts:12:34[39m
+
+[31m   9 try {[39m
+[31m  10   const data = req.body;[39m
+[31m  11   const tutorId = req.params.tutorId;[39m
+[31m→ 12   const pet = await prisma.pet.create({[39m
+[31m         name: "lalaa",[39m
+[31m         ~~~~[39m
+[31m         species: "dog",[39m
+[31m         carry: "p",[39m
+[31m         weight: 5,[39m
+[31m         data_of_birth: "02/09/2105",[39m
+[31m         tutorId: "65576c1a4c90d6579d54f6cc",[39m
+[31m       ? data?: PetCreateInput | PetUncheckedCreateInput[39m
+[31m       })[39m
+
+[31mUnknown argument `name`. Did you mean `data`? Available options are marked with ?.[39m
+2023-11-17 11:58:09 - [35mhttp[39m: [35mPOST /api//pet/65576c1a4c90d6579d54f6cc 500 34 - 166.762 ms[39m
+[35m[39m
+2023-11-17 11:58:25 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.pet.create()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\pet\controllers\petControllers.ts:12:34[39m
+
+[31m   9 try {[39m
+[31m  10   const data = req.body;[39m
+[31m  11   const tutorId = req.params.tutorId;[39m
+[31m→ 12   const pet = await prisma.pet.create({[39m
+[31m         name: "lalaa",[39m
+[31m         ~~~~[39m
+[31m         species: "dog",[39m
+[31m         carry: "p",[39m
+[31m         weight: 5,[39m
+[31m         data_of_birth: "02/09/2105",[39m
+[31m         tutorId: "65577f2a59622d1356eaa274",[39m
+[31m       ? data?: PetCreateInput | PetUncheckedCreateInput[39m
+[31m       })[39m
+
+[31mUnknown argument `name`. Did you mean `data`? Available options are marked with ?.[39m
+2023-11-17 11:58:25 - [35mhttp[39m: [35mPOST /api//pet/65577f2a59622d1356eaa274 500 34 - 20.640 ms[39m
+[35m[39m
+2023-11-17 11:59:00 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.pet.create()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\pet\controllers\petControllers.ts:12:34[39m
+
+[31m   9 try {[39m
+[31m  10   const data = req.body;[39m
+[31m  11   const tutorId = req.params.tutorId;[39m
+[31m→ 12   const pet = await prisma.pet.create({[39m
+[31m         name: "lalaa",[39m
+[31m         ~~~~[39m
+[31m         species: "dog",[39m
+[31m         carry: "p",[39m
+[31m         weight: "5",[39m
+[31m         data_of_birth: "2023-11-17T14:54:29.003Z",[39m
+[31m         tutorId: "65577f2a59622d1356eaa274",[39m
+[31m       ? data?: PetCreateInput | PetUncheckedCreateInput[39m
+[31m       })[39m
+
+[31mUnknown argument `name`. Did you mean `data`? Available options are marked with ?.[39m
+2023-11-17 11:59:00 - [35mhttp[39m: [35mPOST /api//pet/65577f2a59622d1356eaa274 500 34 - 10.918 ms[39m
+[35m[39m
+2023-11-17 12:00:11 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 12:00:20 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 12:00:23 - [35mhttp[39m: [35mPOST /api//pet/65577f2a59622d1356eaa274 201 169 - 731.367 ms[39m
+[35m[39m
+2023-11-17 12:00:28 - [35mhttp[39m: [35mGET /api//tutor 200 326 - 83.497 ms[39m
+[35m[39m
+2023-11-17 12:01:18 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 12:01:42 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 12:03:13 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 12:03:33 - [35mhttp[39m: [35mDELETE /api/pet/65578007d368edfa4f116d36/tutor/65577f2a59622d1356eaa274 200 35 - 700.119 ms[39m
+[35m[39m
+2023-11-17 12:03:37 - [35mhttp[39m: [35mGET /api//tutor 200 157 - 78.999 ms[39m
+[35m[39m
+2023-11-17 12:04:31 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 12:04:55 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 12:05:13 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 12:05:29 - [35mhttp[39m: [35mPOST /api//pet/65577f2a59622d1356eaa274 201 169 - 893.613 ms[39m
+[35m[39m
+2023-11-17 12:05:58 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.pet.update()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\pet\controllers\petControllers.ts:51:34[39m
+
+[31m  48 const { petId, tutorId } = req.params;[39m
+[31m  49 const data = req.body;[39m
+[31m  50 [39m
+[31m→ 51 const pet = await prisma.pet.update({[39m
+[31m       where: {[39m
+[31m         id: "65578139d9fc3272f3b6492f",[39m
+[31m         tutorId: "65577f2a59622d1356eaa274"[39m
+[31m       },[39m
+[31m       data: {[39m
+[31m         name: "sho",[39m
+[31m         species: "dog",[39m
+[31m         carry: "p",[39m
+[31m         weight: 5,[39m
+[31m                 ~[39m
+[31m         data_of_birth: "02/09/2105"[39m
+[31m       }[39m
+[31m     })[39m
+
+[31mArgument `weight`: Invalid value provided. Expected String or StringFieldUpdateOperationsInput, provided Int.[39m
+2023-11-17 12:05:58 - [35mhttp[39m: [35mPUT /api/pet/65578139d9fc3272f3b6492f/tutor/65577f2a59622d1356eaa274 500 34 - 31.549 ms[39m
+[35m[39m
+2023-11-17 12:06:28 - [35mhttp[39m: [35mPUT /api/pet/65578139d9fc3272f3b6492f/tutor/65577f2a59622d1356eaa274 200 14 - 162.167 ms[39m
+[35m[39m
+2023-11-17 12:06:34 - [35mhttp[39m: [35mGET /api//tutor 200 324 - 78.359 ms[39m
+[35m[39m
+2023-11-17 12:07:02 - [35mhttp[39m: [35mPOST /api/tutor 201 148 - 124.878 ms[39m
+[35m[39m
+2023-11-17 12:14:17 - [35mhttp[39m: [35mPOST /api/tutor 201 149 - 984.392 ms[39m
+[35m[39m
+2023-11-17 12:14:37 - [35mhttp[39m: [35mGET /api//tutor 200 643 - 75.714 ms[39m
+[35m[39m
+2023-11-17 12:14:53 - [35mhttp[39m: [35mPUT /api/tutor/65578349d9fc3272f3b64932 422 51 - 2.607 ms[39m
+[35m[39m
+2023-11-17 12:15:14 - [35mhttp[39m: [35mPUT /api/tutor/65578349d9fc3272f3b64932 200 32 - 200.279 ms[39m
+[35m[39m
+2023-11-17 12:15:18 - [35mhttp[39m: [35mGET /api//tutor 200 643 - 75.766 ms[39m
+[35m[39m
+2023-11-17 12:15:45 - [35mhttp[39m: [35mPOST /api//pet/65578349d9fc3272f3b64932 201 169 - 117.628 ms[39m
+[35m[39m
+2023-11-17 12:15:56 - [35mhttp[39m: [35mGET /api//tutor 200 812 - 98.100 ms[39m
+[35m[39m
+2023-11-17 12:16:14 - [35mhttp[39m: [35mPOST /api//pet/65578349d9fc3272f3b64932 201 167 - 119.520 ms[39m
+[35m[39m
+2023-11-17 12:16:17 - [35mhttp[39m: [35mGET /api//tutor 200 980 - 77.153 ms[39m
+[35m[39m
+2023-11-17 12:16:48 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.pet.delete()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\pet\controllers\petControllers.ts:28:40[39m
+
+[31m  25 export async function removePet(req: Request, res: Response) {[39m
+[31m  26   try {[39m
+[31m  27     const { petId, tutorId } = req.params;[39m
+[31m→ 28     const pet = await prisma.pet.delete([39m
+[31mAn operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.[39m
+2023-11-17 12:16:48 - [35mhttp[39m: [35mDELETE /api/pet/655783a1d9fc3272f3b64933/tutor/655783bdd9fc3272f3b64934 500 34 - 82.200 ms[39m
+[35m[39m
+2023-11-17 12:17:10 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.pet.delete()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\pet\controllers\petControllers.ts:28:40[39m
+
+[31m  25 export async function removePet(req: Request, res: Response) {[39m
+[31m  26   try {[39m
+[31m  27     const { petId, tutorId } = req.params;[39m
+[31m→ 28     const pet = await prisma.pet.delete([39m
+[31mAn operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.[39m
+2023-11-17 12:17:10 - [35mhttp[39m: [35mDELETE /api/pet/655783bdd9fc3272f3b64934/tutor/655783bdd9fc3272f3b64934 500 34 - 86.701 ms[39m
+[35m[39m
+2023-11-17 12:17:17 - [35mhttp[39m: [35mGET /api//tutor 200 980 - 103.137 ms[39m
+[35m[39m
+2023-11-17 12:18:51 - [35mhttp[39m: [35mPUT /api/pet/655783bdd9fc3272f3b64934/tutor/65578349d9fc3272f3b64932 200 14 - 159.552 ms[39m
+[35m[39m
+2023-11-17 12:18:55 - [35mhttp[39m: [35mGET /api//tutor 200 981 - 76.941 ms[39m
+[35m[39m
+2023-11-17 12:19:14 - [35mhttp[39m: [35mGET /api//tutor 200 981 - 75.007 ms[39m
+[35m[39m
+2023-11-17 12:19:34 - [35mhttp[39m: [35mDELETE /api//tutor/65577f2a59622d1356eaa274 200 37 - 251.412 ms[39m
+[35m[39m
+2023-11-17 12:20:08 - [35mhttp[39m: [35mDELETE /api/pet/655783a1d9fc3272f3b64933/tutor/65578349d9fc3272f3b64932 200 35 - 153.556 ms[39m
+[35m[39m
+2023-11-17 12:20:14 - [35mhttp[39m: [35mGET /api//tutor 200 488 - 75.738 ms[39m
+[35m[39m
+2023-11-17 12:20:34 - [35mhttp[39m: [35mDELETE /api/pet/655783bdd9fc3272f3b64934/tutor/65578349d9fc3272f3b64932 200 35 - 152.960 ms[39m
+[35m[39m
+2023-11-17 12:20:37 - [35mhttp[39m: [35mGET /api//tutor 200 320 - 85.195 ms[39m
+[35m[39m
+2023-11-17 12:20:47 - [35mhttp[39m: [35mDELETE /api//tutor/65578349d9fc3272f3b64932 200 37 - 189.595 ms[39m
+[35m[39m
+2023-11-17 12:20:52 - [35mhttp[39m: [35mGET /api//tutor 200 160 - 74.936 ms[39m
+[35m[39m
+2023-11-17 12:20:58 - [35mhttp[39m: [35mDELETE /api//tutor/65578196d9fc3272f3b64930 200 37 - 193.974 ms[39m
+[35m[39m
+2023-11-17 12:21:01 - [35mhttp[39m: [35mGET /api//tutor 200 2 - 142.163 ms[39m
+[35m[39m
+2023-11-17 12:21:39 - [35mhttp[39m: [35mGET /api//tutor 200 2 - 38.202 ms[39m
+[35m[39m
+2023-11-17 12:22:42 - [32minfo[39m: [32mApplication is working on port: 8000[39m
+2023-11-17 12:23:08 - [35mhttp[39m: [35mPOST /api/tutor 201 150 - 628.915 ms[39m
+[35m[39m
+2023-11-17 12:24:14 - [35mhttp[39m: [35mGET /api//tutor 200 162 - 76.362 ms[39m
+[35m[39m
+2023-11-17 12:24:50 - [35mhttp[39m: [35mPOST /api//pet/6557855cb932ab1371d1e083 201 167 - 125.052 ms[39m
+[35m[39m
+2023-11-17 12:25:10 - [35mhttp[39m: [35mGET /api//tutor 200 329 - 74.564 ms[39m
+[35m[39m
+2023-11-17 12:29:40 - [35mhttp[39m: [35mPOST /api/tutor 201 145 - 952.626 ms[39m
+[35m[39m
+2023-11-17 12:29:45 - [35mhttp[39m: [35mGET /api//tutor 200 485 - 76.715 ms[39m
+[35m[39m
+2023-11-17 12:30:00 - [35mhttp[39m: [35mPOST /api//pet/655786e4b932ab1371d1e086 201 167 - 114.577 ms[39m
+[35m[39m
+2023-11-17 12:30:03 - [35mhttp[39m: [35mGET /api//tutor 200 652 - 74.141 ms[39m
+[35m[39m
+2023-11-17 12:30:31 - [35mhttp[39m: [35mDELETE /api/pet/655785c2b932ab1371d1e084/tutor/6557855cb932ab1371d1e083 200 35 - 159.361 ms[39m
+[35m[39m
+2023-11-17 12:30:37 - [35mhttp[39m: [35mGET /api//tutor 200 485 - 74.406 ms[39m
+[35m[39m
+2023-11-17 12:31:28 - [31merror[39m: [31mSystem error: [39m
+[31mInvalid `prisma.pet.delete()` invocation in[39m
+[31mC:\Users\bruno\OneDrive\Área de Trabalho\Api_clinc\src\pet\controllers\petControllers.ts:28:40[39m
+
+[31m  25 export async function removePet(req: Request, res: Response) {[39m
+[31m  26   try {[39m
+[31m  27     const { petId, tutorId } = req.params;[39m
+[31m→ 28     const pet = await prisma.pet.delete([39m
+[31mAn operation failed because it depends on one or more records that were required but not found. Record to delete does not exist.[39m
+2023-11-17 12:31:28 - [35mhttp[39m: [35mDELETE /api/pet/655786e4b932ab1371d1e086/tutor/655786f8b932ab1371d1e087 500 34 - 111.190 ms[39m
+[35m[39m
+2023-11-17 12:31:34 - [35mhttp[39m: [35mGET /api//tutor 200 485 - 76.317 ms[39m
+[35m[39m
+2023-11-17 12:31:49 - [35mhttp[39m: [35mDELETE /api/pet/655786f8b932ab1371d1e087/tutor/655786e4b932ab1371d1e086 200 35 - 151.413 ms[39m
+[35m[39m
+2023-11-17 12:31:52 - [35mhttp[39m: [35mGET /api//tutor 200 318 - 77.510 ms[39m
+[35m[39m
+2023-11-17 12:32:00 - [35mhttp[39m: [35mDELETE /api//tutor/655786e4b932ab1371d1e086 200 37 - 188.628 ms[39m
+[35m[39m
+2023-11-17 12:32:03 - [35mhttp[39m: [35mGET /api//tutor 200 162 - 75.488 ms[39m
+[35m[39m
+2023-11-17 12:32:12 - [35mhttp[39m: [35mPOST /api//pet/6557855cb932ab1371d1e083 201 167 - 121.508 ms[39m
+[35m[39m
+2023-11-17 12:32:15 - [35mhttp[39m: [35mGET /api//tutor 200 329 - 74.211 ms[39m
+[35m[39m
